@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.line {
+  height: 4px;
+  background-color: rgb(50, 3, 221);
+}
+
+.line2 {
+  height: 4px;
+  background-color: rgb(252, 178, 18);
+}
+
+.counter {
+  text-align: center;
+}
+
+.inputs {
+  text-align: center;
+}
+
+.inps {
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(245, 8, 8);
+}
+
+.formInp {
+  background-color: peachpuff;
+  width: 400px;
+  height: auto;
+}
+
+.form1 {
+  margin-top: 60px;
+  height: auto;
+  margin-left: 600px;
+}
